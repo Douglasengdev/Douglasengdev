@@ -2,7 +2,7 @@
 - Eu sou o Douglas! 🙋
 - Estudante de Engenharia de Software 📚
 - Estudante de Front-end e Data Science :computer:
-- Como entrar em contato comigo 👇
+- Entre em contato comigo 👇
 
 <div> 
   <a href="https://instagram.com/021_dgm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
