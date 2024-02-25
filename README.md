@@ -1,7 +1,7 @@
 ### Hello World!
 - Eu sou o Douglas! 🙋
 - Estudante de Engenharia de Software 📚
-- Desenvolvedor Font-end e apaixonado por tecnologia :computer:
+- Desenvolvedor Font-end apaixonado por tecnologia :computer:
 - Entre em contato comigo 👇
 
 <div> 
